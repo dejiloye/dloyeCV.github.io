@@ -1,0 +1,105 @@
+
+
+body { 
+    margin: 0px;
+    background-color: black;
+
+
+ }
+
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: s0;
+    background-color:#D3D3D3;	
+    margin-top: 40px;
+    overflow-x: hidden;
+    }
+
+    .img {
+    padding-top: 30px;  
+    padding-left: 40px; 
+    padding-bottom: 20px;
+    }
+  
+  .name {
+    
+   margin-top: 40px;
+   margin-left: 100px;
+    padding-top: 80px;
+    padding-left: 300px;
+    padding-bottom: 60px;
+    background-color: white;
+   
+  }
+
+  .contact { 
+    font-size: 20px;
+    padding-top: 280px;
+             padding-right: px;
+             padding-left: ;
+
+  }
+  h3 {
+    color: blue;
+    font-size: 30px;
+
+  }
+
+  .wrk {
+  padding-top: 50px;  
+  }
+  .edu {
+   padding-top: 50px; 
+  }
+
+  .short {
+    padding-top: 50px;
+  }
+
+  .referees {
+    padding-top: 50px;
+  } 
+
+  .subheading {
+    color: blue;
+    font-size: 30px; 
+  }
+
+  .b {
+  margin-left: 40px; 
+  font-size: 25px; 
+  }
+  .Values {
+   padding-top: 50px; 
+  }
+
+  table
+  {
+    border-collapse: collapse;
+    width: 70%;
+  
+  }
+
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: black;
+    color: white;
+  }
+
+  td {
+    border: 1px solid #ddd;
+    font-size: 25px;
+  }
+  p {
+    font-size: 25px;
+  }
+
+  ul {
+    font-size: 24px;
+  }
